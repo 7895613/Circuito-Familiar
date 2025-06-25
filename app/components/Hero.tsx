@@ -22,7 +22,7 @@ export function Hero() {
           <span className="bg-gradient-to-r from-white to-yellow-300 bg-clip-text text-transparent">Familiar</span>
         </h1>
         <div className="flex items-center justify-center gap-3 mb-8">
-          <p className="text-3xl md:text-4xl font-bold text-yellow-200">Diversión en cada hoyo</p>
+          <p className="text-3xl md:text-4xl font-bold text-yellow-200">D   iversión en cada hoyo</p>
         </div>
         <p className="text-xl mb-12 text-green-100 max-w-3xl mx-auto leading-relaxed">
           Una iniciativa que une deporte y familia en un mismo campo. Torneos accesibles y súper divertidos para
